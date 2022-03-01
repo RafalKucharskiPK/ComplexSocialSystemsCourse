@@ -3,8 +3,11 @@ Teaching materials for students of Simulating and analyzing complex social syste
 
 ---
 
-This course introduces social component into formal analysis. We work with data, models and algorithms which describe _human behaviour_. By definition non-deterministic, heterogeneic and adaptive - this is core element common to all the addressed problems. Understanding how a single human behaves is already a challenge, understanding how people (family, group, society, nation, etc.) behaves is even more challenging, when information, perception, learning and adaptation the system becomes complex. Importantly here we do not take perspective of _social sciences_ - this course is intended to mathematicians, physics, data scientists, AI/ML engineers and computer scientists - thus we always rely on hard empirical (big) data, statistical models, verified theories and frameworks.
+This course introduces a social component into the formal analysis. We work with data, models and algorithms which describe _human behaviour_. By definition non-deterministic, heterogeneic and adaptive - this is core element common to all the addressed problems. 
 
+Understanding how a single human behaves is already a challenge, understanding how people (family, group, society, nation, etc.) behaves is even more challenging, when information, perception, learning and adaptation kick-in the system becomes truly complex. Importantly here we do not take the perspective of _social sciences_ - this course is intended for mathematicians, physics, data scientists, AI/ML engineers and computer scientists (BA/MA/PhD students) - thus we always rely on hard empirical (big) data, statistical models, verified theories and frameworks.
+
+---
 
 > Rok 2022 - wiosna - sprawy organizacyjne:
 
