@@ -7,13 +7,19 @@ This course introduces a social component into the formal analysis. We work with
 
 Understanding how a single human behaves is already a challenge, understanding how people (family, group, society, nation, etc.) behaves is even more challenging, when information, perception, learning and adaptation kick-in the system becomes truly complex. Importantly here we do not take the perspective of _social sciences_ - this course is intended for mathematicians, physics, data scientists, AI/ML engineers and computer scientists (BA/MA/PhD students) - thus we always rely on hard empirical (big) data, statistical models, verified theories and frameworks.
 
+Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/Course.ipynb)
+
 ---
 
 > Rok 2022 - wiosna - sprawy organizacyjne:
 
-* termin wykładu (lista konfliktów -> propozycja terminów (doodle?) -> wolna sala -> decyzja
-* ramowe seminarium: 15 minut wprowadzenia do tematyki (Ja) -> 30-45minut prezentacja artykulu -> 30-45minut dyskusji
-* warunkiem zaliczenia jest: 1) prezentacja materiału na seminarium __oraz__ b) aktywne uczestnictwo w zajęciach (dyskusja, obecność)
+* ramowe seminarium: 
+    * 15 minut wprowadzenia do tematyki (Ja) 
+    * -> 30-45minut prezentacja artykulu 
+    * -> 30-45minut dyskusji
+* warunkiem zaliczenia jest: 
+  * 1) prezentacja materiału na seminarium __oraz__ 
+  * 2) aktywne uczestnictwo w zajęciach (dyskusja, obecność)
 * nieobecności - standardowo
 * opis materiałów i zagadnień [tutaj](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/Course.ipynb)
 
