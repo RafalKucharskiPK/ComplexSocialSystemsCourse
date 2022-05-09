@@ -38,6 +38,6 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 * ~~10 V 22~~ - G: Social Networks - [paper](/papers/fake.pdf) - KW
 * ~~17 V 22~~ - H: Platform revolution - [paper](https://arxiv.org/abs/2011.12827) + [software](https://github.com/RafalKucharskiPK/MaaSSim/) IA
 * 24 V 22 - I: Complex Adaptive Systems - [paper](/papers/animal_collective_behaviour.pdf)
-* ~~31 V 22~~- J: Human vs AI - [paper](/papers/starcraft.pdf) KW
-* 07 VI 22 - extra
+* ~~31 V 22~~- cancelled
+* ~~07 VI 22~~ - J: Human vs AI - [paper](/papers/starcraft.pdf) KW
 * 14 VI 22 - Summary + grades + outlook
