@@ -1,6 +1,8 @@
 # ComplexSocialSystemsCourse
 Teaching materials for students of Simulating and analyzing complex social systems at Jagiellonian University
 
+>> 2022/2023 version of this course  will be taught as lecture/seminar + project/excercise and  will be avaiilable for MA, PhD - more info [here](https://sylabus.uj.edu.pl/en/document/c55aca9b-256f-485f-bc93-105b828fd4e8.pdf)
+
 ---
 
 This course introduces a social component into the formal analysis. We work with data, models and algorithms which describe _human behaviour_. By definition non-deterministic, heterogeneic and adaptive - this is core element common to all the addressed problems. 
