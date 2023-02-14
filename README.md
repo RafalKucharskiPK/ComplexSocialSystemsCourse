@@ -27,13 +27,13 @@ Understanding how a single human behaves is already a challenge, understanding h
 
 ### Excercises:
 
-* for the first half of the semester we meet every week to introduce significant methods and libraries in python
+* for the first half of the semester we meet every week to introduce significant methods and libraries in python (ca. 5 weeks)
 * each excercise introduces a new python library(ies)
 * each excercise is accompanied with a reprodubicle jupyter notebook with the code showing main functionalities and concepts
 
 ## Project:
 
-In the second half of the semest we will share the list of projects (in pairs) which you will consult with us and present by the end of the semester
+In the second half of the semest we will share the list of projects (in pairs) which you will work on, consult with us and present by the end of the semester
 
 ## Exams and grades:
 
@@ -45,11 +45,13 @@ To pass the course you need to:
 
 Exam - will be made during presentation of your projects. Me and the excercies tutor will jointly evaluate your project and discuss your knowledge from the lectures. The exam takes an oral form and we jointly grade you project (50%) and knowledge from lectures (50%). Extra points can be collected from the active participation in the discussions and excercises.
 
+---
+
 Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/Course.ipynb)
 
 ----
 
-2023 schedule lectures:
+2022 schedule lectures - old:
 
 * 01 III 22 - organizational
 * 08 III 22 - tutorial
