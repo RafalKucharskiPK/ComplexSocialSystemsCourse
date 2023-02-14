@@ -6,36 +6,50 @@ This course introduces a social component into the formal analysis. We work with
 
 Understanding how a single human behaves is already a challenge, understanding how people (family, group, society, nation, etc.) behaves is even more challenging, when information, perception, learning and adaptation kick-in the system becomes truly complex. Importantly here we do not take the perspective of _social sciences_ - this course is intended for mathematicians, physics, data scientists, AI/ML engineers and computer scientists (BA/MA/PhD students) - thus we always rely on hard empirical (big) data, statistical models, verified theories and frameworks.
 
-Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/Course.ipynb)
+
 
 ---
 
-> The course consist of:
+## Rules and organization:
+
+### The course consist of:
 * lecture (every week 1.5h)
 * excercises (1.5h/week in the first half of the semester)
 * project (ca 20h of work - in pairs, second half of the semester).
 
+### Lectures:
+
+* some of the topics will be covered by me
+* others (ca 10 will be covered by us: students and me).
+* we will have 10 papers/articles/documents and each of them will be presented by one selected student and we will discuss them during classes
 
 
 
+### Excercises:
 
+* for the first half of the semester we meet every week to introduce significant methods and libraries in python
+* each excercise introduces a new python library(ies)
+* each excercise is accompanied with a reprodubicle jupyter notebook with the code showing main functionalities and concepts
 
+## Project:
 
-> Rok 2022 - wiosna - sprawy organizacyjne:
+In the second half of the semest we will share the list of projects (in pairs) which you will consult with us and present by the end of the semester
 
-* ramowe seminarium: 
-    * 15 minut wprowadzenia do tematyki (Ja) 
-    * -> 30-45minut prezentacja artykulu 
-    * -> 30-45minut dyskusji
-* warunkiem zaliczenia jest: 
-  * 1) prezentacja materiału na seminarium __oraz__ 
-  * 2) aktywne uczestnictwo w zajęciach (dyskusja, obecność)
-* nieobecności - standardowo
-* opis materiałów i zagadnień [tutaj](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/Course.ipynb)
+## Exams and grades:
+
+To pass the course you need to:
+1. be present at the lectures (two absences max) 
+2. be present at the excercises (two absences max)
+3. at the lectures you need to either prepare and present one article and/or actively participate in the group discussions
+4. present the group project and meet the objectives
+
+Exam - will be made during presentation of your projects. Me and the excercies tutor will jointly evaluate your project and discuss your knowledge from the lectures. The exam takes an oral form and we jointly grade you project (50%) and knowledge from lectures (50%). Extra points can be collected from the active participation in the discussions and excercises.
+
+Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/Course.ipynb)
 
 ----
 
-2022 schedule:
+2023 schedule lectures:
 
 * 01 III 22 - organizational
 * 08 III 22 - tutorial
