@@ -51,7 +51,9 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 
 ----
 
-2023 schedule lectures - old:
+## Schedule
+
+### Lectures
 
 * 28 II 23 - organizational
 * 07 III 23 - introduction
@@ -67,3 +69,21 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 * 30 V 23 - J: Human vs AI - [paper](/papers/starcraft.pdf) 
 * 06 VI 23 - K: Extra slot - TBD
 * 13 VI 22 - Oral Exam
+
+### Excercises:
+
+* 01 III 23 - ---
+* 08 III 23 - 
+* 15 III 23 - 
+* 22 III 23 -
+* 29 III 23 -
+* 05 IV 23 -
+* 12 IV 23 -
+* 19 IV 23 -
+* 26 IV 23 -
+* 10 V 23 -
+* 17 V 23 -
+* 24 V 23 -
+* 31 V 23 -
+* 07 VI 23 -
+* 14 VI 23 - 
