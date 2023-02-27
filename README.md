@@ -51,7 +51,7 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 
 ----
 
-2022 schedule lectures - old:
+2023 schedule lectures - old:
 
 * 28 II 23 - organizational
 * 07 III 23 - introduction
@@ -65,5 +65,5 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 * 16 V 23 - H: Platform revolution - [paper](https://arxiv.org/abs/2011.12827) + [software](https://github.com/RafalKucharskiPK/MaaSSim/) IA
 * 23 V 23 - I: Complex Adaptive Systems - [paper](/papers/animal_collective_behaviour.pdf)
 * 30 V 23 - J: Human vs AI - [paper](/papers/starcraft.pdf) 
-* 06 VI 23 - 
+* 06 VI 23 - K: Extra slot - TBD
 * 13 VI 22 - Oral Exam
