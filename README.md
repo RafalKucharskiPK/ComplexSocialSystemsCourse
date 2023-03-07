@@ -78,12 +78,12 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 * 22 III 23 - Travel demand: Four step model, etc. - FG
 * 29 III 23 - Discrete Choice Models: Biogeme, excel - FG
 * 05 IV 23 - Network science: Social Networks data, networkx - MB
-* 12 IV 23 - Compex Systems: pyCX - RK
-* 19 IV 23 -
-* 26 IV 23 -
-* 10 V 23 -
-* 17 V 23 -
-* 24 V 23 -
-* 31 V 23 -
-* 07 VI 23 -
-* 14 VI 23 - 
+* 12 IV 23 - Complex Systems: pyCX - RK
+* 19 IV 23 - Projects assignment
+* 26 IV 23 - Consultations
+* 10 V 23 - Consultations
+* 17 V 23 - Consultations
+* 24 V 23 - Review
+* 31 V 23 - Consultations
+* 07 VI 23 - Consultations
+* 14 VI 23 - Grading
