@@ -57,28 +57,28 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 
 * 28 II 23 - organizational
 * 07 III 23 - introduction
-* 14 III 23 - A: Flow - traffic and pedestrian flows - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/helbing_pedestrians.pdf) 
-* 21 III 23 - B: Travel demand - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/gonzales_mobility.pdf) 
-* 28 III 23 - C: Discrete choice models - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/train_logit.pdf) 
-* 04 IV 23 - D: Networks - [paper](http://networksciencebook.com/chapter/2) 
-* 18 IV 23 - E: Behavioural profiling - [paper](/papers/kosinski.pdf) 
-* 25 IV 23 - F: Virus Spreading - [paper](http://networksciencebook.com/chapter/10)
-* 09 V 23 - G: Social Networks - [paper](/papers/fake.pdf) 
-* 16 V 23 - H: Platform revolution - [paper](https://arxiv.org/abs/2011.12827) + [software](https://github.com/RafalKucharskiPK/MaaSSim/) 
-* 23 V 23 - I: Complex Adaptive Systems - [paper](/papers/animal_collective_behaviour.pdf)
-* 30 V 23 - J: Human vs AI - [paper](/papers/starcraft.pdf) 
+* 14 III 23 - A: Flow - traffic and pedestrian flows - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/helbing_pedestrians.pdf) - MJ
+* 21 III 23 - B: Travel demand - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/gonzales_mobility.pdf) - AR
+* 28 III 23 - C: Discrete choice models - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/train_logit.pdf) - free 
+* 04 IV 23 - D: Networks - [paper](http://networksciencebook.com/chapter/2) - VF
+* 18 IV 23 - E: Behavioural profiling - [paper](/papers/kosinski.pdf) -JS
+* 25 IV 23 - F: Virus Spreading - [paper](http://networksciencebook.com/chapter/10) - PG
+* 09 V 23 - G: Social Networks - [paper](/papers/fake.pdf) - AD
+* 16 V 23 - H: Platform revolution - [paper](https://arxiv.org/abs/2011.12827) + [software](https://github.com/RafalKucharskiPK/MaaSSim/)  - free (FG?)
+* 23 V 23 - I: Complex Adaptive Systems - [paper](/papers/animal_collective_behaviour.pdf) - DS (swarm)
+* 30 V 23 - J: Human vs AI - [paper](/papers/starcraft.pdf) - WW
 * 06 VI 23 - K: Extra slot - TBD
 * 13 VI 22 - Oral Exam
 
 ### Excercises:
 
 * 01 III 23 - ---
-* 08 III 23 - 
-* 15 III 23 - 
-* 22 III 23 -
-* 29 III 23 -
-* 05 IV 23 -
-* 12 IV 23 -
+* 08 III 23 - Graphs: OSMnx, OTP, GTFS - FG
+* 15 III 23 - Flow models: Sumo, Pedestrian, MFD - RK
+* 22 III 23 - Travel demand: Four step model, etc. - FG
+* 29 III 23 - Discrete Choice Models: Biogeme, excel - FG
+* 05 IV 23 - Network science: Social Networks data, networkx - MB
+* 12 IV 23 - Compex Systems: pyCX - RK
 * 19 IV 23 -
 * 26 IV 23 -
 * 10 V 23 -
