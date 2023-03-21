@@ -74,12 +74,12 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 
 * 01 III 23 - ---
 * 08 III 23 - Graphs: OSMnx, OTP, GTFS - FG
-* 15 III 23 - Flow models: Sumo, Pedestrian, MFD - RK
+* 15 III 23 - Faculty Festival Jubilee
 * 22 III 23 - Travel demand: Four step model, etc. - FG
-* 29 III 23 - Discrete Choice Models: Biogeme, excel - FG
+* 29 III 23 - Flow models: Sumo, Pedestrian, MFD - RK
 * 05 IV 23 - Network science: Social Networks data, networkx - MB
-* 12 IV 23 - Complex Systems: pyCX - RK
-* 19 IV 23 - Projects assignment
+* 12 IV 23 - Discrete Choice Models: Biogeme, excel - FG
+* 19 IV 23 - Complex Systems: pyCX - RK + Projects assignment
 * 26 IV 23 - Consultations
 * 10 V 23 - Consultations
 * 17 V 23 - Consultations
