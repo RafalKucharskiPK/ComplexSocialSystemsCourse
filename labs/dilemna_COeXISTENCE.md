@@ -1,19 +1,26 @@
 # Future cities dilemma 
 
+<img width="301" alt="image" src="https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/assets/20555451/3fcb1aed-ab61-498c-8a10-33ec39438add">
+
+
 ## 1. Urban mobility is inefficient and unsustainable. 
-Cities are crowded, congsted. Cars are noisy, smelly and dangerous. 
+Cities are crowded, congested. Cars are noisy, smelly and dangerous. 
 We are looking forward to see cities:
 * safe,
 * green,
-* accesible,
+* accessible,
 * car-free.
 
-![image](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/assets/20555451/1b3a7b26-8d99-4760-b221-7c7d3544fe9d)
+<img width="301" alt="image" src="https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/assets/20555451/1b3a7b26-8d99-4760-b221-7c7d3544fe9d">
 
 
 
-## 2. Humans make selfish transport decisions: they maximise their perceived own utility (want to arrive home fast at low cost)
+## 2. Social system
+
+Humans make selfish transport decisions: they maximise their perceived own utility (want to arrive home fast at low cost).
+
 Each of our trips (obligatory or not) is made in the way *optimal* to us.
+
 This refers to:
 * destination (which shopping mall/gym/restaurant/cafe)
 * departure time (now or later)
@@ -26,46 +33,29 @@ And our decision is subject to:
 * cost (cheaper)
 * comfort
 * safety
-* percpetion (e.g. I do not like bike, I like bus, I love car)
+* perception (e.g. I do not like bike, I like bus, I love car)
 
 > We are 'utility maximisers' - we do what we want and what is best for us.
 
 
 
 ## 3. The urban mobility systems are in the so-called `equilibrium`.
-from game-theory the systems are in `Nash Equilubrium`, i.e.: *No single traveller can impvoe her utility by changing her actions*.
+from game-theory the systems are in `Nash Equilubrium`, 
 
-## 4. There is an opmtimum
+i.e.: *No single traveller can improve her utility by changing her actions*.
 
-System optimum is the state of the system, where actions are tkaen jointly, at the system level. 
+## 4. There is an optimum
 
-The objective is to miminise the **total** costs (e.g. mileage).
+System optimum is the state of the system, where actions are taken jointly, at the system level. 
+
+The objective is to minimise the **total** costs (e.g. mileage).
 
 This saves the costs (emmission, time, noise), in practice by up to 20%
 
-But this is not a social system anymore, this is **Amazon Warehouse**
-
 <img width="474" alt="image" src="https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/assets/20555451/e2610800-8bfe-4bc4-9514-3565405cec57">
 
+But this is not a social system anymore, this is **Amazon Warehouse**
 
-## 5. Connected autonomous vehicles
-
-* human-free
-* controllable
-* collaborative
-* AI-driven
-
-<img width="644" alt="image" src="https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/assets/20555451/60cb5b90-c3f7-4d7d-b8ce-cbf322c3dba0">
-
-# The central dilemma:
-
-We may improve the urban mobility by 20% (less emmissions, more sustainable).
-
-By handing over our decision to centralized AI.
-
-The urban mobility then becomes centrally controlled optimal system.
-
-Do we go for it?
 
 ----
 
