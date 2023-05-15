@@ -57,6 +57,27 @@ This saves the costs (emmission, time, noise), in practice by up to 20%
 But this is not a social system anymore, this is **Amazon Warehouse**
 
 
+## 5. Connected autonomous vehicles
+
+* human-free
+* controllable
+* collaborative
+* AI-driven
+
+<img width="644" alt="image" src="https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/assets/20555451/60cb5b90-c3f7-4d7d-b8ce-cbf322c3dba0">
+
+# The central dilemma:
+
+We may improve the urban mobility by 20% (less emmissions, more sustainable).
+
+By handing over our decision to centralized AI.
+
+The urban mobility then becomes centrally controlled optimal system.
+
+Do we go for it?
+
+
+
 ----
 
 ---
