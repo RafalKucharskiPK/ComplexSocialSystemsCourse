@@ -67,7 +67,7 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 * 16 V 23 - H: Platform revolution - [paper](https://arxiv.org/abs/2011.12827) + [software](https://github.com/RafalKucharskiPK/MaaSSim/)  - free (FG?)
 * 23 V 23 - I: Complex Adaptive Systems - [paper](/papers/animal_collective_behaviour.pdf) - DS (swarm)
 * 30 V 23 - J: Human vs AI - [paper](/papers/starcraft.pdf) - WW
-* 06 VI 23 - K: Extra slot - TBD
+* 06 VI 23 - K: Extra slot - Elections Faliszewski - DW
 * 13 VI 22 - Oral Exam
 
 ### Excercises:
