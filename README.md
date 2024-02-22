@@ -1,4 +1,4 @@
-# ComplexSocialSystemsCourse 2023
+# ComplexSocialSystemsCourse 2024
 
 Teaching materials for students of the _Simulating and analyzing complex social systems course_ at Jagiellonian University
 
@@ -28,8 +28,8 @@ Understanding how a single human behaves is already a challenge, understanding h
 ### Excercises:
 
 * for the first half of the semester we meet every week to introduce significant methods and libraries in python (ca. 5 weeks)
-* each excercise introduces a new python library(ies)
-* each excercise is accompanied with a reprodubicle jupyter notebook with the code showing main functionalities and concepts
+* some excercises introduces a new python library(ies)
+* some excercise is accompanied with a reprodubicle jupyter notebook with the code showing main functionalities and concepts
 
 ## Project:
 
@@ -40,10 +40,10 @@ In the second half of the semest we will share the list of projects (in pairs) w
 To pass the course you need to:
 1. be present at the lectures (two absences max) 
 2. be present at the excercises (two absences max)
-3. at the lectures you need to either prepare and present one article and/or actively participate in the group discussions
+3. at the lectures you need to prepare and present one topic (subject to availability) and actively participate in the group discussions
 4. present the group project and meet the objectives
 
-Exam - will be made during presentation of your projects. Me and the excercies tutor will jointly evaluate your project and discuss your knowledge from the lectures. The exam takes an oral form and we jointly grade you project (50%) and knowledge from lectures (50%). Extra points can be collected from the active participation in the discussions and excercises.
+Exam **TBA** - will be made during presentation of your projects. Me and the excercies tutor will jointly evaluate your project and discuss your knowledge from the lectures. The exam takes an oral form and we jointly grade you project (50%) and knowledge from lectures (50%). Extra points can be collected from the active participation in the discussions and excercises.
 
 ---
 
