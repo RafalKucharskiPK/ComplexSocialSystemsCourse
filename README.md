@@ -55,20 +55,20 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 
 ### Lectures
 
-* 28 II 23 - organizational
-* 07 III 23 - introduction
-* 14 III 23 - A: Flow - traffic and pedestrian flows - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/helbing_pedestrians.pdf) - MJ
-* 21 III 23 - B: Travel demand - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/gonzales_mobility.pdf) - AR
-* 28 III 23 - C: Discrete choice models - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/train_logit.pdf) - free 
-* 04 IV 23 - D: Networks - [paper](http://networksciencebook.com/chapter/2) - VF
-* 18 IV 23 - E: Behavioural profiling - [paper](/papers/kosinski.pdf) -JS
-* 25 IV 23 - F: Virus Spreading - [paper](http://networksciencebook.com/chapter/10) - PG
-* 09 V 23 - G: Social Networks - [paper](/papers/fake.pdf) - AD
-* 16 V 23 - H: Platform revolution - [paper](https://arxiv.org/abs/2011.12827) + [software](https://github.com/RafalKucharskiPK/MaaSSim/)  - free (FG?)
-* 23 V 23 - I: Complex Adaptive Systems - [paper](/papers/animal_collective_behaviour.pdf) - DS (swarm)
-* 30 V 23 - J: Human vs AI - [paper](/papers/starcraft.pdf) - WW
-* 06 VI 23 - K: Extra slot - Elections Faliszewski - DW
-* 13 VI 22 - Oral Exam
+* 27 II 24 - organizational
+* 05 III 24 - introduction
+* 12 III 24 - A: Flow - traffic and pedestrian flows - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/helbing_pedestrians.pdf) 
+* 19 III 24 - B: Travel demand - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/gonzales_mobility.pdf)
+* 02 IV 24 - C: Discrete choice models - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/train_logit.pdf) 
+* 09 IV 24 - D: Networks - [paper](http://networksciencebook.com/chapter/2) 
+* 16 IV 24 - E: Behavioural profiling - [paper](/papers/kosinski.pdf) 
+* 23 IV 24 - F: Virus Spreading - [paper](http://networksciencebook.com/chapter/10) 
+* 07 V 24 - G: Social Networks - [paper](/papers/fake.pdf) 
+* 14 V 24 - H: Platform revolution - [paper](https://arxiv.org/abs/2011.12827) + [software](https://github.com/RafalKucharskiPK/MaaSSim/)  
+* 21 V 24 - I: Complex Adaptive Systems - [paper](/papers/animal_collective_behaviour.pdf) 
+* 28 V 24 - J: Human vs AI - [paper](/papers/starcraft.pdf) 
+* 04 VI 24 - K: Extra slot - Elections Faliszewski 
+* 11 VI 24 - Presentations and grades
 
 ### Excercises:
 
