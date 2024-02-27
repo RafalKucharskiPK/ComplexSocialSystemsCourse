@@ -27,7 +27,7 @@ Understanding how a single human behaves is already a challenge, understanding h
 
 ### Excercises:
 
-* for the first half of the semester we meet every week to introduce significant methods and libraries in python (ca. 5 weeks)
+* for the first half of the semester we meet every week to introduce significant methods and libraries in python (ca.6 weeks)
 * some excercises introduces a new python library(ies)
 * some excercise is accompanied with a reprodubicle jupyter notebook with the code showing main functionalities and concepts
 
@@ -56,18 +56,18 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 ### Lectures
 
 * 27 II 24 - organizational
-* 05 III 24 - introduction
-* 12 III 24 - A: Flow - traffic and pedestrian flows - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/helbing_pedestrians.pdf) 
-* 19 III 24 - B: Travel demand - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/gonzales_mobility.pdf)
-* 02 IV 24 - C: Discrete choice models - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/train_logit.pdf) 
-* 09 IV 24 - D: Networks - [paper](http://networksciencebook.com/chapter/2) 
-* 16 IV 24 - E: Behavioural profiling - [paper](/papers/kosinski.pdf) 
-* 23 IV 24 - F: Virus Spreading - [paper](http://networksciencebook.com/chapter/10) 
-* 07 V 24 - G: Social Networks - [paper](/papers/fake.pdf) 
-* 14 V 24 - H: Platform revolution - [paper](https://arxiv.org/abs/2011.12827) + [software](https://github.com/RafalKucharskiPK/MaaSSim/)  
-* 21 V 24 - I: Complex Adaptive Systems - [paper](/papers/animal_collective_behaviour.pdf) 
-* 28 V 24 - J: Human vs AI - [paper](/papers/starcraft.pdf) 
-* 04 VI 24 - K: Extra slot - Elections Faliszewski 
+* 05 III 24 - A: Life2vec - [deathCalculator]https://deathcalculator.ai/ [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/life2vec.pdf) 
+* 12 III 24 - B: Flow - traffic and pedestrian flows - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/helbing_pedestrians.pdf) 
+* 19 III 24 - C: Travel demand - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/gonzales_mobility.pdf)
+* 02 IV 24 - D: Discrete choice models - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/train_logit.pdf) 
+* 09 IV 24 - E: Networks - [paper](http://networksciencebook.com/chapter/2) 
+* 16 IV 24 - F: Behavioural profiling - [paper](/papers/kosinski.pdf) 
+* 23 IV 24 - G: Virus Spreading - [paper](http://networksciencebook.com/chapter/10) 
+* 07 V 24 - H: Social Networks - [paper](/papers/fake.pdf) 
+* 14 V 24 - I: Platform revolution - [paper](https://arxiv.org/abs/2011.12827) + [software](https://github.com/RafalKucharskiPK/MaaSSim/)  
+* 21 V 24 - J: Complex Adaptive Systems - [paper](/papers/animal_collective_behaviour.pdf) 
+* 28 V 24 - K: Human vs AI - [paper](/papers/starcraft.pdf) 
+* 04 VI 24 - L: Extra slot - Elections Faliszewski 
 * 11 VI 24 - Presentations and grades
 
 ### Excercises:
