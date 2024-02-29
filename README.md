@@ -60,7 +60,7 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 * 12 III 24 - B: Flow - traffic and pedestrian flows - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/helbing_pedestrians.pdf) - DB
 * 19 III 24 - C: Travel demand - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/gonzales_mobility.pdf) - MR
 * 02 IV 24 - D: Discrete choice models - [paper](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/papers/train_logit.pdf) 
-* 09 IV 24 - E: Networks - [paper](http://networksciencebook.com/chapter/2) 
+* 09 IV 24 - E: Networks - [paper](http://networksciencebook.com/chapter/2) - MR
 * 16 IV 24 - F: Behavioural profiling - [paper](/papers/kosinski.pdf)  - TM
 * 23 IV 24 - G: Virus Spreading - [paper](http://networksciencebook.com/chapter/10) - PM
 * 07 V 24 - H: Social Networks - [paper](/papers/fake.pdf) 
