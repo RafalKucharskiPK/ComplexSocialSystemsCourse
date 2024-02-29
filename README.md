@@ -63,7 +63,7 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 * 09 IV 24 - E: Networks - [paper](http://networksciencebook.com/chapter/2) - MR
 * 16 IV 24 - F: Behavioural profiling - [paper](/papers/kosinski.pdf)  - TM
 * 23 IV 24 - G: Virus Spreading - [paper](http://networksciencebook.com/chapter/10) - PM
-* 07 V 24 - H: Social Networks - [paper](/papers/fake.pdf) 
+* 07 V 24 - H: Social Networks - [paper](/papers/fake.pdf) - IA
 * 14 V 24 - I: Platform revolution - [paper](https://arxiv.org/abs/2011.12827) + [software](https://github.com/RafalKucharskiPK/MaaSSim/)  
 * 21 V 24 - J: Complex Adaptive Systems - [paper](/papers/animal_collective_behaviour.pdf) - PF
 * 28 V 24 - K: Human vs AI - [paper](/papers/starcraft.pdf) - MH
