@@ -77,7 +77,7 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 * 06 III 24 - Travel demand: Four step model, etc. - FG
 * 20 III 24 - Network science: Social Networks data, networkx - MB
 * 27 III 24 - Flow models: Sumo, Pedestrian, MFD - FG & ZV
-* 03 IV  24 - Discrete Choice Models: Biogeme, excel - FG
+* 03 IV  24 - Discrete Choice Models: Biogeme ([examples](https://github.com/alvarogutyerrez/TheDiscreteChoiceDataBank)), excel - FG
 * 10 IV  24 - Complex Systems: pyCX - RK + Projects assignment
 * 17 IV  24 - Consultations
 * 24 IV  24 - Consultations
