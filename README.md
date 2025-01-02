@@ -1,4 +1,4 @@
-# ComplexSocialSystemsCourse 2024
+# ComplexSocialSystemsCourse 2025
 
 Teaching materials for students of the _Simulating and analyzing complex social systems course_ at Jagiellonian University
 
@@ -71,21 +71,7 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 * 04 VI 24 - L: Extra slot - Elections Faliszewski - full
 * 11 VI 24 - Presentations and grades
 
----- 
-Kolejnosc proponowana na 2025:
-1. Complex Adaptive Systems
-2. Helbing pedestrian model
-3. Cuban Crisis
-4. Discrete choice
-5. Life2Vec
-6. Faliszewski Wybory
-7. Networks
-8. Beh Prof
-9. Virus
-10. Social Networks
-11. Travel demand
-12. Platform Revolution
-13. Human vs AI
+
 
 ### Excercises:
 
