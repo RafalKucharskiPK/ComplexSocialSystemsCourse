@@ -55,7 +55,7 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 
 ### Lectures
 
-(see details in [course.ipynb]([course.ipynb](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/Course.ipynb))
+> details in [course.ipynb](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/Course.ipynb)
 
 * 04 III 25 - 1: Introduction + 101
 * 11 III 25 - 2: Complex (Adaptive) Systems - XX
