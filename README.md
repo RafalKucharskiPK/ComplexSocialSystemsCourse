@@ -77,17 +77,17 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 
 ### Excercises:
 
-* 28 II  24 - Graphs: OSMnx, OTP, GTFS - FG
-* 06 III 24 - Travel demand: Four step model, etc. - FG
-* 20 III 24 - Network science: Social Networks data, networkx - MB
-* 27 III 24 - Flow models: Sumo, Pedestrian, MFD - FG & ZV
-* 03 IV  24 - Discrete Choice Models: Biogeme ([examples](https://github.com/alvarogutyerrez/TheDiscreteChoiceDataBank)), excel - FG
-* 10 IV  24 - Complex Systems: pyCX - RK + Projects assignment
-* 17 IV  24 - Consultations
-* 24 IV  24 - Consultations
-* 08 V   24 - Consultations
-* 15 V   24 - Consultations
-* 22 V   24 - Review
-* 29 V   24 - Consultations
-* 05 VI  24 - Consultations
-* 12 VI  24 - Grading
+* 12 III 25 - Graphs: OSMnx, OTP, GTFS - AP
+* 19 III 25 - Discrete Choice Models: Biogeme ([examples](https://github.com/alvarogutyerrez/TheDiscreteChoiceDataBank)), excel - OA
+* 26 III 25 - Network science: Social Networks data, networkx - OA
+* 02 IV 25 - Flow models: IDM, Pedestrian model - AP
+* 9 IV 25 - RL: Essentials and MARL - OA & AP
+* 16 IV 25 - Complex Systems: pyCX, Schelling's model of segregation - AP
+* 23 IV 25 - Consultations
+* 30 IV 25 - Consultations
+* 07 V 25 - Consultations
+* 14 V 25 - Consultations
+* 21 V 25 - Consultations
+* 28 V 25 - Consultations
+* 04 VI 25 - Consultations
+* 11 VI 25 - Consultations
