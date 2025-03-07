@@ -66,10 +66,10 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 * 15 IV 25 - 7: Democracy and Theory of Voting - PM+MS
 * 29 IV 25 - 8: Networks -
 * 06 V 25 - 9: Behavioural profiling - a.k.a. Cambridge analytica - JM+KS (KH, KB)
-* 13 V 25 - 10: Virus spreading - dynamics of Covid pandemics. - BK
+* 13 V 25 - 10: Virus spreading - dynamics of Covid pandemics. - BK + DB
 * 20 V 25 - 11: Recommendation systems - Youtube/TikTok/Instagram - NC+UBU
-* 27 V 25 - 12: News and Fakenews - Social networks - MW+KM (DM)
-* 03 VI 25 - 13: Travel demand models.
+* 27 V 25 - 12: News and Fakenews - Social networks - MW+KM
+* 03 VI 25 - 13: Travel demand models - DM + KH
 * 10 VI 25 - 14: Platform revolution - Uber, AirBnB etc.
 * extra one - 15: Human vs AI -
 
