@@ -58,17 +58,17 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 > details in [course.ipynb](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/Course.ipynb)
 
 * 04 III 25 - 1: Introduction + 101
-* 11 III 25 - 2: Complex (Adaptive) Systems - XX
+* 11 III 25 - 2: Complex (Adaptive) Systems - full
 * 18 III 25 - 3: Modelling flow of pedestrians - Crowd Dynamics - 
-* 25 III 25 - 4: Game-theory and politics - Cuban Missile Crisis - 
+* 25 III 25 - 4: Game-theory and politics - Cuban Missile Crisis -  (JW)
 * 01 IV 25 - 5: Discrete choice models - 
-* 08 IV 25 - 6: Predicting our death with ML - Life2Vec
-* 15 IV 25 - 7: Democracy and Theory of Voting - 
+* 08 IV 25 - 6: Predicting our death with ML - Life2Vec - JK+TD
+* 15 IV 25 - 7: Democracy and Theory of Voting - PM+MS
 * 29 IV 25 - 8: Networks -
-* 06 V 25 - 9: Behavioural profiling - a.k.a. Cambridge analytica
-* 13 V 25 - 10: Virus spreading - dynamics of Covid pandemics.
-* 20 V 25 - 11: Recommendation systems - Youtube/TikTok/Instagram
-* 27 V 25 - 12: News and Fakenews - Social networks
+* 06 V 25 - 9: Behavioural profiling - a.k.a. Cambridge analytica - JM+KS (KH, KB)
+* 13 V 25 - 10: Virus spreading - dynamics of Covid pandemics. - BK
+* 20 V 25 - 11: Recommendation systems - Youtube/TikTok/Instagram - NC+UBU
+* 27 V 25 - 12: News and Fakenews - Social networks - MW (DM)
 * 03 VI 25 - 13: Travel demand models.
 * 10 VI 25 - 14: Platform revolution - Uber, AirBnB etc.
 * extra one - 15: Human vs AI -
