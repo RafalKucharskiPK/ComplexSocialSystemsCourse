@@ -59,9 +59,9 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 
 * 04 III 25 - 1: Introduction + 101
 * 11 III 25 - 2: Complex (Adaptive) Systems - full
-* 18 III 25 - 3: Modelling flow of pedestrians - Crowd Dynamics - 
+* 18 III 25 - 3: Discrete Choice Theory - ŁG+ 
 * 25 III 25 - 4: Game-theory and politics - Cuban Missile Crisis -  JW+RK
-* 01 IV 25 - 5: Discrete choice models - KB
+* 01 IV 25 - 5: Modelling flow of pedestrians - Crowd Dynamics - KB
 * 08 IV 25 - 6: Predicting our death with ML - Life2Vec - JK+TD
 * 15 IV 25 - 7: Democracy and Theory of Voting - PM+MS
 * 29 IV 25 - 8: Networks - PK
