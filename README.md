@@ -78,11 +78,11 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 ### Excercises:
 
 * 12 III 25 - Graphs: OSMnx, OTP, GTFS - AP
-* 19 III 25 - Discrete Choice Models: Biogeme ([examples](https://github.com/alvarogutyerrez/TheDiscreteChoiceDataBank)), excel - OA
-* 26 III 25 - Network science: Social Networks data, networkx - OA
+* 19 III 25 - Discrete Choice Models: Biogeme - OA
+* 26 III 25 - Network science: Social networks, NetworkX - OA
 * 02 IV 25 - Flow models: IDM, Pedestrian model - AP
-* 9 IV 25 - RL: Essentials and MARL - OA & AP
-* 16 IV 25 - Complex Systems: pyCX, Schelling's model of segregation - AP
+* 9 IV 25 - Complex Systems: pyCX, Schelling's model of segregation - AP
+* 16 IV 25 - RL: Essentials and MARL - OA
 * 23 IV 25 - Consultations
 * 30 IV 25 - Consultations
 * 07 V 25 - Consultations
