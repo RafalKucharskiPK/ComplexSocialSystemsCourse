@@ -69,8 +69,8 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 * 13 V 25 - 10: Virus spreading - dynamics of Covid pandemics. - BK + DB
 * 20 V 25 - 11: Recommendation systems - Youtube/TikTok/Instagram - NC+UBU
 * 27 V 25 - 12: News and Fakenews - Social networks - MW+KM
-* 03 VI 25 - 13: Travel demand models - DM + KH
-* 10 VI 25 - 14: Platform revolution - Uber, AirBnB etc. - OK
+* 03 VI 25 - 13: Travel demand models - DM + KH + Platform revolution - Uber, AirBnB etc. - OK
+* 10 VI 25 - 14: cancelled
 * extra one - 15: Human vs AI -
 
 
