@@ -57,6 +57,8 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 
 > details in [course.ipynb](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/Course.ipynb)
 
+
+> to add 2027: econogym: https://arxiv.org/abs/2506.12110
 * 04 III 25 - 1: Introduction + 101
 * 11 III 25 - 2: Complex (Adaptive) Systems - full
 * 18 III 25 - 3: Discrete Choice Theory - ŁG+ 
@@ -76,6 +78,8 @@ Course materials [here](https://github.com/RafalKucharskiPK/ComplexSocialSystems
 
 
 ### Excercises:
+
+> to add 2027: econogym: https://arxiv.org/abs/2506.12110
 
 * 12 III 25 - Graphs: OSMnx, OTP, GTFS - AP
 * 19 III 25 - Discrete Choice Models: Biogeme - OA
